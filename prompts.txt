@@ -1,0 +1,3 @@
+How many customers are there
+How many unique customers are there for each product category
+Calculate total sales amount per product category
