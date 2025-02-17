@@ -25,4 +25,4 @@ Once you've done this set the GOOGLE_API_KEY environment variable
         streamlit run app.py  
 
 ## App flow: 
-![Alt Text](images/Chat_with_database_flow.jpg)
+![Alt Text](workflows/Chat_with_database_flow.jpg)
