@@ -22,4 +22,7 @@ Once you've done this set the GOOGLE_API_KEY environment variable
 		Official site link:  https://dev.mysql.com/downloads/workbench/
 
 ### run app:
-        streamlit run app.py        
+        streamlit run app.py  
+
+## App flow: 
+![Alt Text](images/Chat_with_database_flow.jpg)
